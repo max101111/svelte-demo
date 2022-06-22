@@ -30,6 +30,9 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"daisyui": "^2.15.4"
+		"@tinymce/tinymce-svelte": "^1.0.0",
+		"bytemd": "^1.15.0",
+		"daisyui": "^2.15.4",
+		"rollup-plugin-copy": "^3.4.0"
 	}
 }
