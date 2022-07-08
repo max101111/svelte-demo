@@ -2,6 +2,11 @@
 # yarn lockfile v1
 
 
+"@bytemd/plugin-gfm@^1.15.0":
+  version "1.15.0"
+  resolved "https://registry.npmmirror.com/@bytemd/plugin-gfm/-/plugin-gfm-1.15.0.tgz#c06f96159fa2a0bcf1e5be3a09b6678ee8be641d"
+  integrity sha512-yrDIomnuuOWVm4pMUfbcCHnWBtPySmt/ytZah/eEz1tdMLlHQ7dfoGMl2irmD4lVF4qmADAfaRjtT1kbMN2CAA==
+
 "@eslint/eslintrc@^1.3.0":
   version "1.3.0"
   resolved "https://registry.npmmirror.com/@eslint/eslintrc/-/eslintrc-1.3.0.tgz#29f92c30bb3e771e4a2048c95fa6855392dfac4f"

@@ -2,7 +2,7 @@
 	"name": "my-app",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "svelte-kit dev --port 1069",
+		"dev": "svelte-kit dev --port 1069 --host",
 		"build": "svelte-kit build",
 		"build:staging": "cross-env VITE_MODE=staging svelte-kit build",
 		"package": "svelte-kit package",
@@ -30,6 +30,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@bytemd/plugin-gfm": "^1.15.0",
 		"@tinymce/tinymce-svelte": "^1.0.0",
 		"bytemd": "^1.15.0",
 		"daisyui": "^2.15.4",
